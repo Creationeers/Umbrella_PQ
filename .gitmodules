@@ -1,0 +1,9 @@
+[submodule "people_queue"]
+	path = people_queue
+	url = git@github.com:Creationeers/People_Queue.git
+[submodule "csv_count"]
+	path = csv_count
+	url = git@github.com:Creationeers/CSV-Count_HCT.git
+[submodule "people-queue-app"]
+	path = people-queue-app
+	url = git@github.com:Creationeers/People-Queue-App.git
