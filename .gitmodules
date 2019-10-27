@@ -7,3 +7,6 @@
 [submodule "people-queue-app"]
 	path = people-queue-app
 	url = git@github.com:Creationeers/People-Queue-App.git
+[submodule "PI-SIDE-MAC-COLLECTOR"]
+	path = PI-SIDE-MAC-COLLECTOR
+	url = git@github.com:Creationeers/PI-SIDE-MAC-COLLECTOR.git
